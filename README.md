@@ -1,2 +1,4 @@
 # V-Tutor
-A Virtual AI avatar using natural language processing and machine learning, significantly enhancing student interview preparation. Automated question generation from PDF texts.
+A Virtual AI avatar using Natural Language Processing(NLP) and Machine Learning, significantly enhancing student interview preparation and automated question generation from PDF texts.
+
+Tech Stack: ReactJS, Python, Firebase.
