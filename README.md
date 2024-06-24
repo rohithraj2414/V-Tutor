@@ -3,7 +3,6 @@ A Virtual AI avatar using Natural Language Processing(NLP) and Machine Learning,
 
 Tech Stack: ReactJS, Python, Firebase.
 
-IMPORTANT NOTE:
-
+# Important Note:
 This repository contains high-confidential codes. Please request permission to learn more about the project and access the source code.
 
